@@ -1,1 +1,10 @@
 # CHATBOT_PE_46
+
+CHATBOT CRIADO PELOS ALUNOS: 
+Lucas de Souza
+Matheus Pantrigo Licarião Barbosa
+Otavio Asatomi Silva Sato 
+
+OBJETIVOS: PRECIFICAÇÃO E CLASSIFICAÇÃO DO PREÇO DE CASAS.
+
+TÉCNICA UTILIZADA: ARVORE DE DECISÃO
